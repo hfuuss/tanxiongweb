@@ -5,7 +5,7 @@ function antCloudFooter() {
   const children = footer.map((item, i) => (<div key={i}><a href={item.src}>{item.text}</a></div>));
   return (<div>
     <div className="logo" key="logo">
-      <img src="https://gw.alipayobjects.com/zos/rmsportal/dnIbXmAgGbRxQJksRsJL.svg" width="72" height="82" />
+      <img src="https://images.hfuusec.cn/20-08-18-077334.jpg" width="72" height="82" />
     </div>
     <div key="nav" className="home-footer-nav-wrapper">
       {children}
@@ -19,7 +19,7 @@ function Footer() {
     <div className="home-layout-wrapper home-footer-wrapper">
       <div className="home-layout">
         {antCloudFooter()}
-        <p key="cop" className="copy">Copyright ©2016 蚂蚁金融服务集团  |  ICP证：沪ICP备15027489号-2</p>
+        <p key="cop" className="copy">Copyright ©2020 六度人脉(北京)科技有限公司  |  ICP证：京ICP备15027489号-5</p>
       </div>
     </div>
   );

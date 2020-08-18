@@ -2,18 +2,18 @@ import React from 'react';
 
 export const page1 = [
   {
-    title: '轻松建站',
-    content: '支持可视化编辑、自由拖拽排版、实时预览、在线访问加速等功能',
+    title: '轻松入住',
+    content: '支持各种团建公司入住平台，发布团建方案等功能',
     src: 'https://gw.alipayobjects.com/zos/rmsportal/MmROsqZndrFBrIspzLlL.png',
   },
   {
-    title: '数据分析',
-    content: '网站内设有数据监测埋点，助你时刻掌握站点效果，鉴别有效渠道',
+    title: '高效分析',
+    content: '网站内设有数据监测埋点，助你时刻掌握适合自己的团建，旅游方案。',
     src: 'https://gw.alipayobjects.com/zos/rmsportal/ONvKhpRAmkCfdEhkUZkJ.png',
   },
   {
-    title: '企业协同',
-    content: '企业版支持以团队管理的方式，多人协作完成营销站点，共享资源',
+    title: '多种多样',
+    content: '多张方案供选择',
     src: 'https://gw.alipayobjects.com/zos/rmsportal/oxmXLgGjCeXfYPcVSbKg.png',
   },
 ];
@@ -247,5 +247,5 @@ export const footer = [
   { text: '使用帮助', src: '#' },
   { text: '模板开发文档', src: '#' },
   { text: '模板开发工具', src: '#' },
-  { text: '联系我们', src: 'mailto:zhao.wuz@antfin.com' },
+  { text: '联系我们', src: 'mailto:y@front.dog' },
 ];

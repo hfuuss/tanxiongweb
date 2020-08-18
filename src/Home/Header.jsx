@@ -8,7 +8,7 @@ export default function Header(props) {
           <a>
             <span>凤蝶</span>
           </a>
-          <span>移动建站平台</span>
+          <span>六度人脉关系网</span>
         </h1>
       </div>
     </header>
